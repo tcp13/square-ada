@@ -52,6 +52,10 @@ main div{
     margin-bottom:3rem;
 }
 
+/* homepage tweaks */
+#home h1{
+    margin-top:8rem;
+}
 
 /* mobile structure */
 @media only screen and (max-width: 1200px) {
