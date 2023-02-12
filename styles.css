@@ -68,6 +68,12 @@ main div{
         margin:4%;
     }
 }
+@media only screen and (max-width: 600px) {
+    .cta-link{
+        width: calc(100% - 2.8rem) !important;
+        text-align: center !important;
+    }
+}
 
 /* call to action links */
 .cta-link{
